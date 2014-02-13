@@ -13,3 +13,7 @@ Your page needs to have the following:
 * A title up top that identifies who's wall it is. (Mine would be "Manish's Wall").
 * One textbox that contains the content that will go on the wall.
 * One submit button that takes the content in the textbox and puts it in the wall.
+
+##Bonus
+
+Snapchat-ify your wall so that each message disappears after 5 seconds.
