@@ -1,0 +1,8 @@
+#wall
+{
+  border: 1px solid black;
+  height:400px;
+  width: 800px;
+  margin: 0px auto;
+  overflow: auto;
+}
