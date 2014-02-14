@@ -10,9 +10,9 @@ You're given one HTML file and one CSS file. This page contains one fixed-size d
 
 Your page needs to have the following:
 
-* A title up top that identifies who's wall it is. (Mine would be "Manish's Wall").
-* One textbox that contains the content that will go on the wall.
-* One submit button that takes the content in the textbox and puts it in the wall.
+1. title up top that identifies who's wall it is. (Mine would be "Manish's Wall").
+2. One textbox that contains the content that will go on the wall.
+3. One submit button that takes the content in the textbox and puts it in the wall.
 
 ##Bonus
 
