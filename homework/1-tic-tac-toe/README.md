@@ -10,9 +10,13 @@ You're given one HTML file and one CSS file. This page contains one fixed-size d
 
 Your page needs to have the following:
 
-1. title up top that identifies who's wall it is. (Mine would be "Manish's Wall").
-2. One textbox that contains the content that will go on the wall.
-3. One submit button that takes the content in the textbox and puts it in the wall.
+1. A title up top that identifies who's wall it is. (Mine would be "Manish's Wall").
+2. One textbox above your wall and a button next to it.
+
+Your page needs to do the following:
+
+1. Once the user types in the textbox and clicks the button, the text should appear in the wall. 
+2. Once you've completed (1), add the ability to comment on wall posts. 
 
 ##Bonus
 
