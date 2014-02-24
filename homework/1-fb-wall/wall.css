@@ -1,8 +1,70 @@
 #wall
 {
   border: 1px solid black;
-  height:400px;
-  width: 800px;
+  height:700px;
+  width: 1000px;
   margin: 0px auto;
   overflow: auto;
+  background-color: #E1E1E2;
+}
+
+#CoverPicture
+{
+	position: absolute;
+    top:108px;
+	left:285px;
+
+}
+#logo
+{
+    position: absolute;
+    top:75px;
+    left:285px;
+	
+   
+}
+#FriendRequest
+{
+    position: absolute;
+    top:65px;
+    margin-left: 40px;
+	right: 400px;  
+}
+
+#Message
+{
+    position: absolute;
+    top:65px;
+    margin-left: 40px;
+	right: 365px;  
+}
+
+#notification
+{
+    position: absolute;
+    top:65px;
+    margin-left: 40px;
+	right: 335px;  
+}
+
+#SearchButton
+{
+    position: absolute;
+    top:71px;
+    margin-left: 40px;
+	right: 455px;  
+}
+
+#SearchBox
+{
+	font-size: 15px;
+	color:gray;
+	border-radius:3px;
+    position: absolute;
+    top:75px;
+	width:490px;
+    right:460px;
+	background-image: url(http://108.30.193.53/bar2.png); 
+	border-style: none; 
+	padding: 3px 5px 3px 5px; 
 }
