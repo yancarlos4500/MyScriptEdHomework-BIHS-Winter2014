@@ -11,48 +11,110 @@
 #CoverPicture
 {
 	position: absolute;
-    top:108px;
-	left:285px;
-
+    top:11.1%;
+	left:28%;
 }
+
+
+#boxname
+{
+position: absolute;
+    top:108px;
+	right:250px;
+ height:400px;
+  width: 350px;
+  background-color: white;
+  box-shadow: 2px 2px 2px #888888;
+}
+
+#box
+{
+position: absolute;
+    top:11%;
+	right:25.5%;
+ height:400px;
+  width: 350px;
+  background-color: white;
+  box-shadow: 2px 2px 2px #888888;
+}
+
+#box2
+{
+position: absolute;
+    top:11%;
+	right:23.5%;
+ height:400px;
+  width: 350px;
+  background-color: white;
+  box-shadow: 2px 2px 2px #888888;
+}
+
+#Name
+{
+font-size: 27px;
+	position: absolute;
+    top:36%;
+	left:40.5%;
+	color: white;
+	
+}
+
+#Name2
+{
+font-size: 20px;
+	position: absolute;
+    top:40%;
+	left:40.5%;
+	color: white;
+	
+}
+
+#ProfilePic
+{
+	position: absolute;
+    top:35%;
+	left:30%;
+	border-style: solid;
+	border-color: white;
+	border-width: 4px;
+	border-radius:3px;
+}
+
 #logo
 {
     position: absolute;
-    top:75px;
-    left:285px;
+    top:7.3%;
+    left:27.5%;
 	
    
 }
 #FriendRequest
 {
     position: absolute;
-    top:65px;
-    margin-left: 40px;
-	right: 400px;  
+    top:6%;
+	right: 34.5%;  
 }
 
 #Message
 {
     position: absolute;
-    top:65px;
-    margin-left: 40px;
-	right: 365px;  
+    top:6%;
+	right: 32.5%;  
 }
 
 #notification
 {
     position: absolute;
-    top:65px;
-    margin-left: 40px;
-	right: 335px;  
+    top:6%;
+	right: 30.5%;  
 }
 
 #SearchButton
 {
     position: absolute;
-    top:71px;
+    top:7%;
     margin-left: 40px;
-	right: 455px;  
+	right: 39.7%;  
 }
 
 #SearchBox
@@ -61,9 +123,9 @@
 	color:gray;
 	border-radius:3px;
     position: absolute;
-    top:75px;
+    top:7.3%;
 	width:490px;
-    right:460px;
+    right:40%;
 	background-image: url(http://108.30.193.53/bar2.png); 
 	border-style: none; 
 	padding: 3px 5px 3px 5px; 
