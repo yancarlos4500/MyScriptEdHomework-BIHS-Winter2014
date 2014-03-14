@@ -13,7 +13,7 @@ The first step of this project will involve your group producing a grid using HT
 3. Run this in the terminal: git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git
 4. Run: git pull
 5. Run: git remote set-url origin git@github.com:INSERT_YOUR_GITHUB_USER_NAME_HERE/MyScriptEdHomework-BIHS-Winter2014.git
-
+    git remote add origin git@github.com:GitHubUsername/YourRepoName.git
 ###What you have to do
 
 Your page needs to have the following:
