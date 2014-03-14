@@ -6,6 +6,12 @@ You are going to implement a basic memory game like this: http://www.kielack.com
 
 The first step of this project will involve your group producing a grid using HTML and CSS.
 
+##Setup
+
+1. Log into Cloud9 *using your Github account*.
+2. Find the "ScriptEd-BIHS-Winter2014" project. Open i2t.
+3. 
+
 ##What you have to do
 
 Your page needs to have the following:
