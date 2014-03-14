@@ -2,11 +2,11 @@
 
 You are going to implement a basic memory game like this: http://www.kielack.com/games/memory.php
 
-###03/14
+##03/14
 
 The first step of this project will involve your group producing a grid using HTML and CSS.
 
-##Setup
+###Setup
 
 1. Log into Cloud9 *using your Github account*.
 2. Find the "ScriptEd-BIHS-Winter2014" project. Open it.
@@ -14,7 +14,7 @@ The first step of this project will involve your group producing a grid using HT
 4. Run: git pull
 5. Run: git remote set-url origin git@github.com:derekfisher/MyScriptEdHomework-BIHS-Winter2014.git
 
-##What you have to do
+###What you have to do
 
 Your page needs to have the following:
 
@@ -23,7 +23,7 @@ Your page needs to have the following:
 3. Each square must have a question mark in it.
 
 
-##Submission Checklist
+###Submission Checklist
 
 Before submitting your homework, you must perform the following:
 
