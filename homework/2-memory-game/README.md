@@ -27,6 +27,8 @@ Your page needs to have the following:
 
 ###Submission Checklist
 
+This homework is due on *03/16 by midnight*. 
+
 Before submitting your homework, you must perform the following:
 
 1. Make sure all your files are in the 2-memory-game folder.
