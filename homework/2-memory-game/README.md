@@ -2,6 +2,8 @@
 
 You are going to implement a basic memory game like this: http://www.kielack.com/games/memory.php
 
+-----------------------
+
 ##03/14
 
 The first step of this project will involve your group producing a grid using HTML and CSS.
@@ -30,3 +32,5 @@ Before submitting your homework, you must perform the following:
 1. Make sure all your files are in the 2-memory-game folder.
 2. Run in the terminal: git push origin master.
 3. Go to http://clownfish.io and submit it.
+ 
+-----------------------
