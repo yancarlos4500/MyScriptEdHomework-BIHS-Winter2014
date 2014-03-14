@@ -31,7 +31,7 @@ This homework is due on **03/16 by midnight**.
 
 Before submitting your homework, you must perform the following:
 
-1. Make sure all your files are in the 2-memory-game folder.
+1. Make sure all your files are in the "2-memory-game" folder.
 2. Run in the terminal: ``git push origin master``
 3. Go to http://clownfish.io and submit it.
  
