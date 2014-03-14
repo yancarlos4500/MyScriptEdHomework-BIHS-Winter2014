@@ -2,7 +2,7 @@
 
 You are going to implement a basic memory game like this: http://www.kielack.com/games/memory.php
 
-##03/14
+###03/14
 
 The first step of this project will involve your group producing a grid using HTML and CSS.
 
