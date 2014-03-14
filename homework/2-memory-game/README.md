@@ -2,8 +2,6 @@
 
 You are going to implement a basic memory game like this: http://www.kielack.com/games/memory.php
 
------------------------
-
 ##03/14
 
 The first step of this project will involve your group producing a grid using HTML and CSS.
@@ -25,7 +23,7 @@ Your page needs to have the following:
 3. Each square must have a question mark in it.
 
 
-###Submission Checklist
+##Submission Checklist
 
 Before submitting your homework, you must perform the following:
 
