@@ -10,7 +10,7 @@ The first step of this project will involve your group producing a grid using HT
 
 1. Log into Cloud9 *using your Github account*.
 2. Find the "ScriptEd-BIHS-Winter2014" project. Open i2t.
-3. 
+3. 22
 
 ##What you have to do
 
