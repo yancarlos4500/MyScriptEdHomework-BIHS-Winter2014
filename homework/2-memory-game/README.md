@@ -8,7 +8,7 @@ The first step of this project will involve your group producing a grid using HT
 
 ###Setup
 
-1. Log into Cloud9 *using your Github account*.
+1. Log into Cloud9 **using your Github account**.
 2. Find the "ScriptEd-BIHS-Winter2014" project. Open it.
 3. Run the following commands in the terminal: 
   ``git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git``
@@ -27,7 +27,7 @@ Your page needs to have the following:
 
 ###Submission Checklist
 
-This homework is due on *03/16 by midnight*. 
+This homework is due on **03/16 by midnight**. 
 
 Before submitting your homework, you must perform the following:
 
