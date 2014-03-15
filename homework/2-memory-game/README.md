@@ -33,6 +33,7 @@ Before submitting your homework, you must perform the following:
 
 1. Make sure all your files are in the "2-memory-game" folder.
 2. Run in the terminal: 
+  <br/>
   ``git add *``
   <br/>
   ``git commit -u -m "new homework"``
