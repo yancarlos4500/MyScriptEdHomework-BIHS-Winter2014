@@ -48,6 +48,7 @@ Before submitting your homework, you must perform the following:
   ``git commit -u -m "new homework"``
   <br/>
   ``git push origin master``
-3. Go to http://clownfish.io and submit it.
+3. At this point, log into your github and check your files are in your repository. If they're not, do not proceed.
+4. Go to http://clownfish.io and submit it.
  
 -----------------------
