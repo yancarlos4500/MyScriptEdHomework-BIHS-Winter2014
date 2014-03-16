@@ -15,6 +15,8 @@ The first step of this project will involve your group producing a grid using HT
   <br/>
   ``git pull``
   ``git remote set-url origin git@github.com:INSERT_YOUR_GITHUB_USER_NAME_HERE/MyScriptEdHomework-BIHS-Winter2014.git``
+
+    A new folder called "3-memory-game" should appear. If it doesn't, call one of the instructors over.
  
 ###What you have to do
 
