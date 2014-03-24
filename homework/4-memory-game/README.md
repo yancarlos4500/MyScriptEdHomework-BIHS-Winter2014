@@ -62,4 +62,19 @@ Your page needs to do the following:
 4. Everytime the user does not find a match, the score should decrease by 1 point.
 5. Once every match has been found, there should be some kind of indication telling the user the game is complete.
  
------------------------
+###Submission Checklist
+
+This homework is due on **03/28 by midnight**. One submission per group.
+
+Before submitting your homework, you must perform the following:
+
+1. Make sure all your files are in the "3-memory-game" folder.
+2. Run in the terminal: 
+  <br/>
+  ``git add *``
+  <br/>
+  ``git commit -u -m "new homework"``
+  <br/>
+  ``git push origin master``
+3. At this point, log into your github and check that your files are in your repository. If they're not, do not proceed.
+4. Go to http://clownfish.io and submit it.
