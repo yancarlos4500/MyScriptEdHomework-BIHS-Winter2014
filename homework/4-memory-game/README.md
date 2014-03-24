@@ -33,8 +33,6 @@ Your page needs to do the following:
 1. Everytime the user clicks on a square, there should be an alert box that shows the ID of the clicked square.
 2. Everytime the user clicks on the reset button, there should be an alert box that shows the text "reset clicked".
 
-###Github
-
 Once you're done with this phase, submit your code to Github only. Run in the terminal: 
   <br/>
   ``git add *``
