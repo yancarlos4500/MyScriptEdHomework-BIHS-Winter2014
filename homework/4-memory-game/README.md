@@ -55,6 +55,7 @@ At this point, you should have the user interface and basic click handlers imple
 Your page needs to do the following:
 
 1. The game should start with all cards face down.
+2. The game is a single player game only.
 2. There should be a picture hidden behind each card. At this point, do not worry about randomly ordering the pictures. (Hint: You'll need to collect 8 pictures; make sure they are goofy!)
 2. Everytime the user clicks on the reset button, the score should be reset to 0 and all cards should be flipped down.
 3. Everytime the user finds a match, the score should increase by 1 point.
