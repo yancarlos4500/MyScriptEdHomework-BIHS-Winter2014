@@ -33,6 +33,17 @@ Your page needs to do the following:
 1. Everytime the user clicks on a square, there should be an alert box that shows the ID of the clicked square.
 2. Everytime the user clicks on the reset button, there should be an alert box that shows the text "reset clicked".
 
+###Github
+
+Once you're done with this phase, submit your code to Github only. Run in the terminal: 
+  <br/>
+  ``git add *``
+  <br/>
+  ``git commit -u -m "new homework"``
+  <br/>
+  ``git push origin master``
+
+
 ##Phase II
 
 At this point, you should have the user interface and basic click handlers implemented. You are now going to complete the rest of the project.
