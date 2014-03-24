@@ -58,8 +58,8 @@ Your page needs to do the following:
 2. The game is a single player game only.
 2. There should be a picture hidden behind each card. At this point, do not worry about randomly ordering the pictures. (Hint: You'll need to collect 8 pictures; make sure they are goofy!)
 2. Everytime the user clicks on the reset button, the score should be reset to 0 and all cards should be flipped down.
-3. Everytime the user finds a match, the score should increase by 1 point.
-4. Everytime the user does not find a match, the score should decrease by 1 point.
+3. Everytime the user finds a match, the score should increase by 1 point and the matched cards should remain flipped up.
+4. Everytime the user does not find a match, the score should decrease by 1 point and the unmatched cards should be flipped down.
 5. Once every match has been found, there should be some kind of indication telling the user the game is complete.
  
 ###Submission Checklist
