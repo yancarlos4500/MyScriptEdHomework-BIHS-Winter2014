@@ -64,7 +64,7 @@ Your page needs to do the following:
  
 ###Submission Checklist
 
-This homework is due on **03/28 by midnight**. One submission per group.
+This homework is due on **03/27 by midnight**. One submission per group.
 
 Before submitting your homework, you must perform the following:
 
