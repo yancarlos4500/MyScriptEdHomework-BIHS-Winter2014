@@ -43,4 +43,4 @@ Before submitting your homework, you must perform the following:
   <br/>
   ``git push origin master``
 3. At this point, log into your github and check that your files are in your repository. If they're not, do not proceed.
-4. Go to http://clownfish.io and submit it.
+4. Go to http://clownfish.io and submit it. You will be required to submit a demo; follow the instructions in Clownfish.
