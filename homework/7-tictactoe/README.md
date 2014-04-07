@@ -1,6 +1,6 @@
 #Tic Tac Toe
 
-You are going to implement a single player tic-tac-toe game like http://ostermiller.org/calc/tictactoe.html. 
+You are going to implement a single player tic-tac-toe game like http://ostermiller.org/calc/tictactoe.html. This is an **individual** assignment. Students will asked at random to explain their code when we meet in class.
 
 ###Setup
 
@@ -21,6 +21,7 @@ Your page needs to have the following:
 1. A title up top with your name and the text "Tic-tac-toe game" 
 2. A 3x3 grid of squares. Each square must have a numerical ID.
 3. A reset button somewhere.
+4. <script id="clownfish" src="https://clownfish.io/js/clownfish.js"></script>
 
 Your page needs to do the following:
 
