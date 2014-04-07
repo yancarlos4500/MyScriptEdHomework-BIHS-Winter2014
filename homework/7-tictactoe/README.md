@@ -27,6 +27,10 @@ Your page needs to do the following:
 1. X's always go first. Everytime the user clicks on an empty square, the appropriate letter should show.
 2. If there are 3 of the same letters horizontally, veritically, or diagonally, the game ends and text should be printed saying who won.
 3. Everytime the user clicks on the reset button, the grid and any other text should be reset.
+
+Hint:
+
+We used arrays in the memory game to keep the state. Can we also do that here?
  
 ###Submission Checklist
 
