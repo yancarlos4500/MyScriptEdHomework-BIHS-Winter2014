@@ -16,7 +16,7 @@ You are going to implement a single player tic-tac-toe game like http://ostermil
  
 ###What you have to do
 
-*Your page needs to have the following:*
+Your page needs to have the following:
 
 1. A title up top with your name and the text "Tic-tac-toe game" 
 2. A 3x3 grid of squares. Each square must have a numerical ID.
