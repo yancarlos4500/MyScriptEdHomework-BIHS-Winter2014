@@ -27,23 +27,14 @@ Your page needs to do the following:
 1. X's always go first. Everytime the user clicks on an empty square, the appropriate letter should show.
 2. If there are 3 of the same letters horizontally, veritically, or diagonally, the game ends and text should be printed saying who won.
 3. Everytime the user clicks on the reset button, the grid and any other text should be reset.
-
-Once you're done with this phase, submit your code to Github only. Run in the terminal: 
-  <br/>
-  ``git add *``
-  <br/>
-  ``git commit -u -m "new homework"``
-  <br/>
-  ``git push origin master``
-
  
 ###Submission Checklist
 
-This homework is due on **03/27 by midnight**. One submission per group.
+This homework is due on **04/18 by midnight**. 
 
 Before submitting your homework, you must perform the following:
 
-1. Make sure all your files are in the "4-memory-game" folder.
+1. Make sure all your files are in the "7-tictactoe" folder.
 2. Run in the terminal: 
   <br/>
   ``git add *``
