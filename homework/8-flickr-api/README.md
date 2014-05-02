@@ -8,7 +8,7 @@ You are going to write a search engine that searches for pictures on Flickr.
 1. Log into Cloud9 **using your Github account**.
 2. Find the "ScriptEd-BIHS-Winter2014" project. Open it.
 3. Run the following commands in the terminal: <br/>
-  ``git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git``
+      ``git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git``
   <br/>
   ``git pull``<br/>
   ``git remote set-url origin git@github.com:INSERT_YOUR_GITHUB_USER_NAME_HERE/MyScriptEdHomework-BIHS-Winter2014.git``
