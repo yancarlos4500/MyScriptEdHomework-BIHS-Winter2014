@@ -1,16 +1,16 @@
 #Flickr Search Engine
 
-You are going to write a search engine that searches for picture on Flickr.
+You are going to write a search engine that searches for pictures on Flickr.
 
 
 ###Setup
 
 1. Log into Cloud9 **using your Github account**.
 2. Find the "ScriptEd-BIHS-Winter2014" project. Open it.
-3. Run the following commands in the terminal: 
+3. Run the following commands in the terminal: <br/>
   ``git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git``
   <br/>
-  ``git pull``
+  ``git pull``<br/>
   ``git remote set-url origin git@github.com:INSERT_YOUR_GITHUB_USER_NAME_HERE/MyScriptEdHomework-BIHS-Winter2014.git``
 
     A new folder called "8-flickr-api" should appear with just one file: README.md. If it doesn't, call one of the instructors over.
@@ -26,14 +26,6 @@ Your page needs to have the following:
 Your page needs to do the following:
 
 1. Once the user has typed in their query and clicked on the button, they should see pictures that match their search criteria.
-
-Once you're done with this phase, submit your code to Github only. Run in the terminal: 
-  <br/>
-  ``git add *``
-  <br/>
-  ``git commit -u -m "new homework"``
-  <br/>
-  ``git push origin master``
 
 ###Submission Checklist
 
