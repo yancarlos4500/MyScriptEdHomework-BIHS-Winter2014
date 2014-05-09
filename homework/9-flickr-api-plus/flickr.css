@@ -1,9 +1,5 @@
-#query {
-	font-size: 20px;  
-}
-
-#search-button {
-	font-size: 20px;
+input, button, #search-section {
+  font-size: 20px;
 }
 
 #result-header {
