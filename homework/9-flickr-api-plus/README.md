@@ -6,16 +6,19 @@ We are going to do some additonal exercises around the Flickr API page. We will 
 
 1. Log into Cloud9 **using your Github account**.
 2. Find the "ScriptEd-BIHS-Winter2014" project. Open it.
-3. Run the following commands in the terminal: 
-  ``git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git``
-  ``git pull``
-  ``git remote set-url origin git@github.com:INSERT_YOUR_GITHUB_USER_NAME_HERE/MyScriptEdHomework-BIHS-Winter2014.git``
+3. Run the following commands in the terminal:  
 
+  ``git remote set-url origin git@github.com:dopeboy/ScriptEd-BIHS-Winter2014.git``  
+  ``git pull``  
+  ``git remote set-url origin git@github.com:INSERT_YOUR_GITHUB_USER_NAME_HERE/MyScriptEdHomework-BIHS-Winter2014.git``  
+  
   A new folder called "9-flickr-api-plus" should appear with four files: 1) this README.md file, 2) an index.html file, 3) a flickr.css file, and 4) a flickr.js file. If it doesn't, call one of the instructors over.
 
-###Exercises
-
-1. First off, run the html file and make sure that when you type in something in the search box, and click 'Search', you get a basketball picture, just as you saw in class earlier.
+###Exercises  
+  
+(to be done in Cloud9)  
+  
+1. First off, make sure your code is working. Type something into the search box, and click 'Search'. You should get a basketball-related picture.
 
 2. Now, just as we did in class together, change the code so that when you press Search, the picture reflects the word you put in the search box. For example, if I type in ``clownfish``, I expect to see a photo of a clownfish. If I type in ``basketball``, I expect to see a basketball-related photo.
 
