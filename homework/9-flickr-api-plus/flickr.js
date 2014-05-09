@@ -7,7 +7,7 @@ $(document).ready(function() {
 
 		var query = $('#query').val();
 
-		var flickrApiUrl = "http://api.flickr.com/services/rest/" +
+		var flickrApiUrl = "https://api.flickr.com/services/rest/" +
 			"?method=flickr.photos.search" +
 			"&api_key=1c9f777eb7446f34a7261dc1a54be4b2" +
 			"&tags=" + query +
@@ -26,7 +26,7 @@ $(document).ready(function() {
 
 		var firstPhoto = data.photos.photo[0];
 		// http://farm{farm-id}.staticflickr.com/{server-id}/{id}_{secret}.jpg
-		var imageUrl = "http://farm8.staticflickr.com/7356/14162121513_dd630921d9.jpg";
+		var imageUrl = "https://farm8.staticflickr.com/7356/14162121513_dd630921d9.jpg";
 		var imageHtmlElement = "<img src='" + imageUrl + "' />";
 
 		$("#result-photos").append(imageHtmlElement);
