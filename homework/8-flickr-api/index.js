@@ -1,16 +1,15 @@
 $(document).ready(function() {
 
-	$('#search-button').click(function() {
+	$('#SearchButton').click(function() {
 
-		$("#result-photos").html("");
-		$("#result-header").text("");
+		$("#picture").html("");
 
-		var query = $('#query').val();
+		var Search = $('#box').val();
 
 		var flickrApiUrl = "https://api.flickr.com/services/rest/" +
 			"?method=flickr.photos.search" +
 			"&api_key=1c9f777eb7446f34a7261dc1a54be4b2" +
-			"&tags=" + query +
+			"&tags=" + Search +
 			"&has_geo=1" +
 			"&extras=geo" +
 			"&format=json" +
